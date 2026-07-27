@@ -18,7 +18,7 @@ A secure MERN Stack web application that allows authenticated users to generate 
    - Configured with `google/gemini-2.5-flash` model.
    - Returns structured JSON: Title, Tagline, Descriptions, Bullet points, and SEO Tags.
    - Runs on optimized `max_tokens: 1500` settings to avoid OpenRouter credit depletion exceptions.
-4. **Copy-to-Clipboard in 1-Click (Bonus Feature 1)**:
+4. **Copy-to-Clipboard in 1-Click **:
    - **Copy All Content**: Concatenates all generated text blocks into a clean markdown format and copies it.
    - **Individual Copy**: Selectively copy taglines, descriptions, selling points, or keyword strings.
    - Visual success feedback: glowing pulse animation, green checkmark toggles, and toast alerts.
