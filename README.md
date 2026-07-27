@@ -1,4 +1,4 @@
-# AI Product Content Generator (MERN Stack)
+# AI Product Content Generator
 
 A secure MERN Stack web application that allows authenticated users to generate AI-powered product content based on product details, copy outputs in a single click, and manage history records.
 
